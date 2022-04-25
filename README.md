@@ -2,7 +2,9 @@
 
 👨‍💻 San Srinivasan | 💻 Dev, Ops and Beyond | 🌏 TN, India
 
-[![AWS Certified Solutions Architect](https://images.credly.com/size/192x192/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png)](https://www.credly.com/badges/89eccd20-a053-4a7c-b089-5ee76b3f0d8e/public_url) [![Hashicorp Certified: Terrform Associate](https://images.credly.com/size/192x192/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](https://www.credly.com/badges/fe3ae392-f89d-4e1b-8685-129c00f43030/public_url) [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/192x192/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/c89fbbd8-4f7e-4f0c-8aec-21ce6f55a1db/public_url)
+[![AWS Certified Solutions Architect](https://images.credly.com/size/192x192/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/89eccd20-a053-4a7c-b089-5ee76b3f0d8e/public_url) [![Hashicorp Certified: Terrform Associate](https://images.credly.com/size/192x192/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](https://www.credly.com/badges/fe3ae392-f89d-4e1b-8685-129c00f43030/public_url) 
+
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/192x192/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/c89fbbd8-4f7e-4f0c-8aec-21ce6f55a1db/public_url) [![Microsoft Certified: Azure Data Fundamentals](https://images.credly.com/size/192x192/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](https://www.credly.com/badges/0a994fae-7c1d-4d4a-9f32-0c67b607868c/public_url)
 
 I ❤️ writing idiomatic, maintainable code. I architect high performing, fault-tolerant apps on AWS cloud. ☁️
 
