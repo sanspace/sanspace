@@ -6,6 +6,8 @@
 
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/192x192/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/c89fbbd8-4f7e-4f0c-8aec-21ce6f55a1db/public_url) [![Microsoft Certified: Azure Data Fundamentals](https://images.credly.com/size/192x192/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](https://www.credly.com/badges/0a994fae-7c1d-4d4a-9f32-0c67b607868c/public_url) [![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/192x192/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://www.credly.com/badges/91e84323-f92c-442b-9345-68c220cd127f/public_url)
 
+[![VMware NSX-T Data Center](https://images.credly.com/size/192x192/images/f012c1b9-89f5-4cc6-926c-2e46dff5f0f7/image.png)](https://www.credly.com/badges/3b552587-7950-40c7-827b-85b7526e7d81/public_url)
+
 I ❤️ writing idiomatic, maintainable code. I architect high performing, fault-tolerant apps on AWS cloud. ☁️
 
 🌐 [sanspace.in](https://sanspace.in) | ✍️ [blog](https://sanspace.in/blog) | 👨‍💼 [LinkedIn](https://www.linkedin.com/in/santhoshkumarsrinivasan) | 📋 [Resume](https://sanspace.in/resume/) | 📣 [Twitter](https://twitter.com/2sks) | 📚 [StackOverflow](https://stackoverflow.com/story/sanspace)
